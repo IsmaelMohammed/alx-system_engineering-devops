@@ -1,1 +1,1 @@
-shell prject directory
+shell project directory
