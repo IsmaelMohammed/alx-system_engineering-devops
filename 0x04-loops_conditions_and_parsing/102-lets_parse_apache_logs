@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-# Displays the time for 12 hours and 59 minutes.
-filename="apache-access.log"
-awk '{print $1" "$9}' $filename 
+# Parses Apache log files in list format.
+#   Displays the IP and HTTP status code.
+
+awk '{print $1 " " $9}' apache-access.log
