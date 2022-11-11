@@ -1,1 +1,1 @@
-Loops, conditions and parsing tasks
+Loops, conditions and parsing project tasks
