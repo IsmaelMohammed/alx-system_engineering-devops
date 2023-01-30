@@ -1,4 +1,4 @@
 # ssh config file
 Host 34.232.68.18
       PasswordAuthentication no
-      IdentifyFile ~/.ssh/school
+      IdentifyFile ~//home/ismael/ALX.pub
