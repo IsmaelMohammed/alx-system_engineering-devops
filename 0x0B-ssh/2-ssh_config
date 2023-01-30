@@ -1,4 +1,4 @@
 # ssh config file
 Host 54.237.209.186
       PasswordAuthentication yes
-      IdentifyFile ~//home/ismael/school
+      IdentifyFile ~/.ssh/school
