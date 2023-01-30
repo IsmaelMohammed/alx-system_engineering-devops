@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 # Connects to my school server.
-ssh -i ~/home/ismael/ALX.pub ubuntu@34.232.68.18
+ssh -i ~/.ssh/school ubuntu@34.232.68.18
